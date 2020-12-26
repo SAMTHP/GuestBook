@@ -22,9 +22,9 @@ build:
 
 disk: 512
 
-relantionships:
+relationships:
     database: "db:postgresql"
-    
+
 web:
     locations:
         "/":
